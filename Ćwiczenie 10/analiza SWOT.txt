@@ -1,0 +1,26 @@
+strenghts:
+- zespół składający się z programistów full stack
+- przedsiębiorstwo w branży IT
+- mały rozmiar przedsiębiorstwa (potencjalnie bardziej zwarta komunikacja)
+- własne urządzenia i oprogramowanie
+- stały okresowy dochód
+- rozsądna struktura zatrudnienia
+
+weaknesses:
+- mała liczba pracowników i ograniczone zasoby ludzkie
+- słaba lokalizacja (technicznie/logistycznie)
+- brak prawnika
+
+occasions:
+- możliwość nawiązania współpracy z większymi firmami lub instytucjami
+- możliwość poszerzenia oferty o nowe produkty lub usługi
+- możliwość zdobycia nowych klientów poprzez promocję i reklamę firmy
+- duże szanse na rozrost ze względu na małą liczbę programistów
+- dobra lokalizacja (z dala od zgiełku)
+
+threats:
+- niezbyt innowacyjna gałąź IT
+- konkurencja ze strony innych firm IT
+- zmiany technologiczne i konieczność ciągłego szkolenia i aktualizacji umiejętności programistów
+- ryzyko utraty kluczowych pracowników lub klientów
+- ryzyko naruszenia praw autorskich lub bezpieczeństwa danych przez nieuczciwych konkurentów lub crackerów
